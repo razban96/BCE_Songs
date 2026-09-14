@@ -11,6 +11,10 @@ FetchContent_Declare(
 )
 FetchContent_MakeAvailable(nlohmann_json)
 
+# Keep the executable in the build root so the VS Code launch configuration
+# has the same target path for the Ninja and single-configuration generators.
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}")
+
 add_executable(BCE_Songs main.cpp)
 
 target_compile_features(BCE_Songs PRIVATE cxx_std_17)

@@ -50,12 +50,16 @@ string generate_sermon(vector<song> &songsPool, const int count,
   auto it = songsPool.begin();
   while (it != songsPool.end() &&
          selected.size() < static_cast<size_t>(count)) {
+    // if has no verses added, skips
+    if (it->verses.empty()) {
+      ++it;
+      continue;
+    }
 
     // checks appearances of tonality
     if (tonality_count[it->tonality] < max_tonality_count) {
       tonality_count[it->tonality]++;
 
-      // selects random a verse from the songs' verse pool
       uniform_int_distribution<size_t> verse_dist(0, it->verses.size() - 1);
       string selected_verse = it->verses[verse_dist(rng)];
 
