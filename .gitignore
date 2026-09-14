@@ -1,0 +1,68 @@
+# CMake build directories and generated files
+/build/
+/cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Makefile
+build.ninja
+.ninja_deps
+.ninja_log
+
+# Compiled binaries and object files
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.obj
+*.o
+*.gch
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.exp
+
+# Visual Studio and other IDE metadata
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
+*.code-workspace
+
+# Debugging and profiling output
+*.dmp
+*.stackdump
+*.prof
+*.gcda
+*.gcno
+*.gcov
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment and temporary files
+.env
+.env.*
+*.tmp
+*.temp
+*.log
+
+# Songs
+*.mp3
+*.wav
+*.ppt
+*.pptx
+
+# Private song files
+/Cantari tineret/**/*.ppt
+/Cantari tineret/**/*.pptx
