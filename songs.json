@@ -2,49 +2,49 @@
   {
     "title": "10000 motive",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["Ps. 103:1-2", "Ps. 40:1-5", "Ps. 30:1-4"],
     "tags": ["Lauda", "Binecuvantare", "Inchinare", "Recunostinta"]
   },
   {
     "title": "A lui Isus venire",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Luca 12:35-38", "Apoc. 22:4-5"],
     "tags": ["A doua venire", "Speranta", "Veghe"]
   },
   {
     "title": "A mai trecut un an prin noi",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 46:1-3", "Mic. 3:1-4"],
     "tags": ["Anul Nou", "Timp", "Recunostinta"]
   },
   {
     "title": "Aceasta e ziua Domnului",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 47:1-2", "Ps. 118:24-26"],
     "tags": ["Bucurie", "Sarbatoare", "Lauda"]
   },
   {
     "title": "Aceasta mi-e dorinta",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Romani 12:11-14", "Filipeni 1:20-21"],
     "tags": ["Predare", "Inchinare", "Sfintire"]
   },
   {
     "title": "Acum binecuvantati",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Ps. 134"],
     "tags": ["Binecuvantare", "Inchinare", "Lauda"]
   },
   {
     "title": "Adonai",
     "tonality": "sol",
-    "verses": [],
+    "verses": ["Apoc. 22:17-20", "Apoc. 21:3-7"],
     "tags": ["Inchinare", "Maretia Domnului", "Lauda"]
   },
   {
     "title": "Agnus Dei",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 29:1-4"],
     "tags": ["Lauda", "Sfintenie", "Inchinare"]
   },
   {
@@ -56,43 +56,43 @@
   {
     "title": "Ai deschis cerul Tau",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["Evrei 9:14-15", "2 Cor. 5:17-21"],
     "tags": ["Har", "Dragostea Domnului", "Mantuire"]
   },
   {
     "title": "Ai fost oare curatit",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Matei 15:29-32", "Rom. 5:7-11"],
     "tags": []
   },
   {
     "title": "Ai fost rastignit",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Isaia 53:7-12", "Matei 11:27-30"],
     "tags": ["Golgota", "Cruce", "Jertfa"]
   },
   {
     "title": "Ai platit un pret sa-mi dai viata",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Luca 22:39-42"],
     "tags": ["Jertfa", "Rascumparare", "Recunostinta"]
   },
   {
     "title": "Ai valoare",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Ioan 3:14-16", "Matei 10:28-31"],
     "tags": ["Valoare in Cristos", "Identitate", "Incurajare"]
   },
   {
     "title": "Ai venit in lumea noastra",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Evrei 10:1-10"],
     "tags": ["Nasterea Domnului", "Intrupare", "Har"]
   },
   {
     "title": "Al meu Domn (Isuse Tu esti sfant)",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Ps. 81:1-3"],
     "tags": ["Devotiune", "Incredere", "Lauda"]
   },
   {
@@ -104,43 +104,43 @@
   {
     "title": "Al Tau e sufletul meu",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Rom. 6:11-13", "Rom. 6:19"],
     "tags": ["Predare", "Suflet", "Incredere"]
   },
   {
     "title": "Alb",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 51:7-10"],
     "tags": ["Curatie", "Iertare", "Sfintire"]
   },
   {
     "title": "Am aflat in Domnul Isus",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ioan 4:7-14"],
     "tags": ["Mantuire", "Bucurie", "Prietenie cu Isus"]
   },
   {
     "title": "Am fost un orb si nu vedeam",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ioan 9:1-5", "Ioan 9:24-25"],
     "tags": ["Har", "Marturie", "Vedere spirituala"]
   },
   {
     "title": "Am gasit in Domnul fericirea",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 33:18-22"],
     "tags": ["Fericire", "Bucurie", "Mantuire"]
   },
   {
     "title": "Am trait in lume",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["Tit 3:3-7", "1 Cor. 6:9-11"],
     "tags": ["Marturie", "Pocainta", "Transformare"]
   },
   {
     "title": "Apa-i schimbat-o in vin",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Ioan 2:1-11", "Luca 17:19-23"],
     "tags": ["Minuni", "Puterea Domnului", "Lauda"]
   },
   {
@@ -152,31 +152,31 @@
   {
     "title": "As vrea sa Ii multumesc",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["2 Cor. 12:6-10", "2 Cor. 3:1-3"],
     "tags": ["Multumire", "Recunostinta", "Lauda"]
   },
   {
     "title": "As vrea sa numar",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Deut. 8:28-31"],
     "tags": ["Binecuvantari", "Recunostinta", "Har"]
   },
   {
     "title": "Astazi nu mai sunt minuni",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Evrei 1:10-12", "Evrei 13:25-27"],
     "tags": ["Credinta", "Minuni", "Incredere"]
   },
   {
     "title": "Astazi venim toti cu bucurie",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Filip. 2:8-11"],
     "tags": ["Partasie", "Inchinare", "Unitate"]
   },
   {
     "title": "Astazi vin la Tine",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Rom. 3:21-24"],
     "tags": ["Rugaciune", "Predare", "Inchinare"]
   },
   {
@@ -188,13 +188,13 @@
   {
     "title": "Auzi corul ingeresc",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Isaia 9:6"],
     "tags": ["Craciun", "Nasterea Domnului", "Ingeri"]
   },
   {
     "title": "Avem nevoie de Dumnezeu",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Ps. 12:1-6"],
     "tags": ["Dependenta de Dumnezeu", "Rugaciune", "Nevoie"]
   },
   {
@@ -212,19 +212,19 @@
   {
     "title": "Bine-ati venit",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Ioan 1:14-16"],
     "tags": ["Bun venit", "Partasie", "Biserica"]
   },
   {
     "title": "Binecuvantari ma inconjoara",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["2 Sam. 7:29", "Ps. 103:1-5"],
     "tags": ["Binecuvantare", "Har", "Recunostinta"]
   },
   {
     "title": "Binecuvantati sunt acei",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 84:1-4", "Ps. 27:4-8"],
     "tags": ["Fericire", "Ascultare", "Binecuvantare"]
   },
   {
@@ -236,37 +236,37 @@
   {
     "title": "Caci daca dragoste",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Ps. 70", "1 Cor. 13:4-8"],
     "tags": []
   },
   {
     "title": "Caci Domnul nu doreste",
     "tonality": "si",
-    "verses": [],
+    "verses": ["Ezechiel 33:10-16", "Isaia 55:6-7"],
     "tags": ["Pocainta", "Intoarcere", "Har"]
   },
   {
     "title": "Caci Tu mereu ai fost cu mine",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Rom. 8:28-30", "Rom. 8:31-37"],
     "tags": ["Credinciosie", "Ocrotire", "Recunostinta"]
   },
   {
     "title": "Calea, adevarul, viata",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Ioan 14:1-6", "Rom. 5:15-21"],
     "tags": ["Isus Calea", "Adevar", "Mantuire"]
   },
   {
     "title": "Cand eram ratacit",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Luca 15:1-7"],
     "tags": ["Har", "Salvare", "Mantuire"]
   },
   {
     "title": "Cand esti aproape",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 73:25-28"],
     "tags": ["Prezenta Domnului", "Pacea Domnului", "Incredere"]
   },
   {
@@ -278,79 +278,79 @@
   {
     "title": "Cand in zare",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Ps. 142:5-7"],
     "tags": ["Speranta", "Cer", "A doua venire"]
   },
   {
     "title": "Cand Isus Hristos m-a mantuit",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Rom. 3:21-24"],
     "tags": ["Mantuire", "Marturie", "Bucurie"]
   },
   {
     "title": "Cand oceanele",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Matei 14:22-33", "Ps. 46:1-5"],
     "tags": ["Credinta", "Incredere", "Furtuna"]
   },
   {
     "title": "Cand pace-am in suflet",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["Evrei 10:19-23", "Evrei 10:27-29"],
     "tags": ["Pacea Domnului", "Incredere", "Liniste"]
   },
   {
     "title": "Cand se naste un copil",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 127"],
     "tags": ["Binecuvantare de copii", "Nastere", "Familie"]
   },
   {
     "title": "Cand ti-e sufletul",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Ps. 5:1-3"],
     "tags": ["Mangaiere", "Rugaciune", "Speranta"]
   },
   {
     "title": "Cant Domnului caci mi-a facut bine",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 13:3-6"],
     "tags": ["Lauda", "Multumire", "Recunostinta"]
   },
   {
     "title": "Cantec din iubire",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 66:1-4"],
     "tags": ["Iubire", "Inchinare", "Recunostinta"]
   },
   {
     "title": "Cantecul revelatiei",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Isaia 6:1-8", "Ps. 33:1-4"],
     "tags": ["Sfintenie", "Mielul", "Tronul Domnului"]
   },
   {
     "title": "Cat de bogat si minunat",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Efes. 4:1-3", "Colos. 3:12-17"],
     "tags": ["Har", "Bunatatea Domnului", "Lauda"]
   },
   {
     "title": "Cat timp mai stai",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Ps. 86:1-5"],
     "tags": ["Chemare", "Pocainta", "Timp"]
   },
   {
     "title": "Ce bine e sa fii intr-o familie",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Ps. 133", "1 Petru 1:22-23"],
     "tags": ["Familie", "Biserica", "Dragoste frateasca"]
   },
   {
     "title": "Ce bucurie am in Isus",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["Ps. 83:1-5"],
     "tags": ["Bucurie", "Mantuire", "Lauda"]
   },
   {
@@ -362,13 +362,13 @@
   {
     "title": "Ce dar maret e Isus Salvatorul",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["Gal. 4:28-5:1", "1 Ioan 3:1-2"],
     "tags": ["Mantuire", "Har", "Isus Hristos"]
   },
   {
     "title": "Ce dar nemeritat",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["1 Cor. 15:9-10"],
     "tags": ["Har", "Cruce", "Recunostinta"]
   },
   {
@@ -380,49 +380,49 @@
   {
     "title": "Ce ma spala de pacat",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Rom. 5:1-2", "Isaia 43:1-4", "1 Petru 1:17-21", "Evrei 9:19-24"],
     "tags": ["Sangele lui Isus", "Curatie", "Jertfa"]
   },
   {
     "title": "Ce mare esti o Doamne",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 97:1-6"],
     "tags": ["Maretia Domnului", "Lauda", "Creatie"]
   },
   {
     "title": "Ce mare esti Tu",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["Ps. 135:1-6", "Ps. 96:1-6"],
     "tags": ["Maretia Domnului", "Inchinare", "Lauda"]
   },
   {
     "title": "Ce mare har sa stii",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["1 Ioan 3:1-3"],
     "tags": ["Har", "Cunoasterea Domnului", "Mantuire"]
   },
   {
     "title": "Ce minunat e Dumnezeu",
     "tonality": "si",
-    "verses": [],
+    "verses": ["Ps. 19:1-8"],
     "tags": ["Maretia Domnului", "Lauda", "Credinciosie"]
   },
   {
     "title": "Cel ce sta",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Ps. 91:1-4", "Ps. 91:11-16"],
     "tags": ["Ocrotire", "Adapost", "Incredere"]
   },
   {
     "title": "Cel minunat, Salvatorul",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ioan 1:29-37"],
     "tags": ["Isus Salvatorul", "Lauda", "Inchinare"]
   },
   {
     "title": "Cerul declara",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Apoc. 1:13-18", "Ps. 89:5-8"],
     "tags": ["Slava Domnului", "Creatie", "Inviere"]
   },
   {
@@ -440,13 +440,13 @@
   {
     "title": "Chain breaker (lantul greu)",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Ioan 16:13-15"],
     "tags": []
   },
   {
     "title": "Chemati prin cantari",
     "tonality": "do",
-    "verses": [],
+    "verses": ["Filip. 4:4-7", "Ps. 95:6-8"],
     "tags": ["Lauda", "Chemare", "Inchinare"]
   },
   {
@@ -458,13 +458,13 @@
   {
     "title": "Cine este Acest Copil",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Luca 2:4-14"],
     "tags": ["Craciun", "Nasterea Domnului", "Pruncul Isus"]
   },
   {
     "title": "Cine sunt eu, ce-i viata mea",
     "tonality": "la",
-    "verses": [],
+    "verses": ["Ps. 8:3-9"],
     "tags": ["Smerenie", "Har", "Dependenta de Dumnezeu"]
   },
   {
@@ -476,157 +476,157 @@
   {
     "title": "Cinste, onoare",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["Apoc. 7:9-12", "Apoc. 22:17-20"],
     "tags": ["Lauda", "Inchinare", "Slava"]
   },
   {
     "title": "Colinda, colinda",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Matei 1:18-21"],
     "tags": ["Colind", "Craciun", "Nasterea Domnului"]
   },
   {
     "title": "Condu-ma Doamne ziua",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Deut. 32:9-12"],
     "tags": ["Calauzire", "Incredere", "Lumina"]
   },
   {
     "title": "Cred in Dumnezeu ca Tata",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["Filip. 3:12-15", "Matei 7:24-27"],
     "tags": ["Crez", "Marturisire de credinta", "Trinitate"]
   },
   {
     "title": "Credinta mea eu o zidesc",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Evrei 11:1-6"],
     "tags": ["Stanca", "Speranta", "Credinta"]
   },
   {
     "title": "Credinta mea nu-i pe nisip",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Evrei 11:1-6"],
     "tags": ["Stanca", "Fundatie", "Credinta"]
   },
   {
     "title": "Cu bucurie sa cantati",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Isaia 7:14"],
     "tags": ["Bucurie", "Lauda", "Cantare"]
   },
   {
     "title": "Cu Isus in lumea asta",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Evrei 12:1-3"],
     "tags": ["Calatorie", "Biruinta", "Incredere"]
   },
   {
     "title": "Cu Isus vreau sa-mi continui calea",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ioan 6:66-69"],
     "tags": ["Ucenicie", "Calea Domnului", "Credinciosie"]
   },
   {
     "title": "Cu nerabdare astept ziua",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Fapte 1:7-11", "Apoc. 22:1-7"],
     "tags": ["A doua venire", "Cer", "Speranta"]
   },
   {
     "title": "Cu slava-nconjurat",
     "tonality": "do",
-    "verses": [],
+    "verses": ["Fapte 1:6-11", "Fapte 20:24"],
     "tags": ["Slava Domnului", "Majestate", "Inchinare"]
   },
   {
     "title": "Cu Tine vreau sa fiu",
     "tonality": "si",
-    "verses": [],
+    "verses": ["1 Tes. 3:1-8", "Ps. 62:5-8"],
     "tags": ["Partasie", "Devotiune", "Prezenta Domnului"]
   },
   {
     "title": "Cu Tine, Doamne Isuse",
     "tonality": "do",
-    "verses": [],
+    "verses": ["Rom. 5:1-5", "Filip. 4:11-13"],
     "tags": ["Partasie", "Incredere", "Devotiune"]
   },
   {
     "title": "Cuiele nu te-au tinut",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Luca 23:33-43", "Ioan 3:14-17"],
     "tags": ["Cruce", "Dragoste", "Jertfa"]
   },
   {
     "title": "Cum as putea sa tac",
     "tonality": "la",
-    "verses": [],
+    "verses": ["Matei 27:33-40", "Marcu 15:29-32"],
     "tags": ["Recunostinta", "Multumire", "Dragoste"]
   },
   {
     "title": "Cum sa Iti multumesc",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Ieremia 31:3", "Ps. 116:12-13"],
     "tags": ["Multumire", "Recunostinta", "Lauda"]
   },
   {
     "title": "Da binecuvantari din cerul Tau",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Rom. 4:13-17"],
     "tags": ["Binecuvantare", "Rugaciune", "Har"]
   },
   {
     "title": "Da binecuvantari din cerul Tau - copil",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Rom. 4:13-17"],
     "tags": ["Binecuvantare de copii", "Rugaciune", "Familie"]
   },
   {
     "title": "Daca nu stii",
     "tonality": "la",
-    "verses": [],
+    "verses": ["Isaia 63:7-9"],
     "tags": ["Adevar", "Chemare", "Mantuire"]
   },
   {
     "title": "Daca vei vrea",
     "tonality": "Si",
-    "verses": [],
+    "verses": ["Ioan 3:16-18"],
     "tags": ["Vointa Domnului", "Supunere", "Predare"]
   },
   {
     "title": "Dati Domnului tot ce-i al Lui",
     "tonality": "si",
-    "verses": [],
+    "verses": ["1 Cronici 16:25-29"],
     "tags": ["Lauda", "Slava", "Darnicie"]
   },
   {
     "title": "De cine sa ma tem",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Ps. 3:1-4"],
     "tags": ["Incredere", "Biruinta", "Ocrotire"]
   },
   {
     "title": "De n-ai fi Tu",
     "tonality": "Fa#",
-    "verses": [],
+    "verses": ["Ps. 124", "Ps. 56:1-9"],
     "tags": ["Dependenta de Dumnezeu", "Har", "Ajutor"]
   },
   {
     "title": "De nu poti sa platesti",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["1 Ioan 4:9-11"],
     "tags": ["Har", "Iertare", "Mila"]
   },
   {
     "title": "De pe munti inalti",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["Ps. 47:1-6"],
     "tags": ["Lauda", "Creatie", "Inaltare"]
   },
   {
     "title": "De-atatea ori",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Evrei 1:9-12", "Ioan 15:4-5"],
     "tags": ["Iertare", "Har", "Pocainta"]
   },
   {
@@ -644,31 +644,31 @@
   {
     "title": "Depind de Tine",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["Ioan 8:12", "1 Cronici 29:10-14"],
     "tags": ["Dependenta de Dumnezeu", "Predare", "Rugaciune"]
   },
   {
     "title": "Destinul tau",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["Filip. 3:20-21"],
     "tags": ["Destin", "Chemare", "Viata vesnica"]
   },
   {
     "title": "Din sfant izvor",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["1 Petru 1:17-19", "Efes. 1:7-12"],
     "tags": ["Izvorul vietii", "Har", "Duh Sfant"]
   },
   {
     "title": "Doamne astazi vin",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Efes. 1:17-23", "Colos. 1:9-12"],
     "tags": ["Inchinare", "Duh Sfant", "Transformare"]
   },
   {
     "title": "Doamne atinge-ne",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ps. 19:1-4"],
     "tags": ["Atingerea Domnului", "Vindecare", "Rugaciune"]
   },
   {
@@ -680,49 +680,49 @@
   {
     "title": "Doamne esti mai scump",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 119:72-74"],
     "tags": ["Devotiune", "Inchinare", "Dragostea Domnului"]
   },
   {
     "title": "Doamne fa al meu cuvant",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Colos. 3:16-17"],
     "tags": ["Vorbire", "Sfintire", "Intelepciune"]
   },
   {
     "title": "Doamne Isuse-Ti multumesc",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Ps. 133"],
     "tags": ["Multumire", "Recunostinta", "Zi noua"]
   },
   {
     "title": "Doamne Numele-Ti inalt",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 86:11-13", "Ps. 148", "Ps. 30:1-4"],
     "tags": ["Lauda", "Mantuire", "Inviere"]
   },
   {
     "title": "Doamne slava vrem sa-Ti dam",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ps. 23"],
     "tags": ["Slava", "Lauda", "Inchinare"]
   },
   {
     "title": "Doamne Tu esti bucuria mea",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ps. 22:19-24", "Ps. 30:11-12"],
     "tags": ["Bucurie", "Inchinare", "Lauda"]
   },
   {
     "title": "Doamne Tu esti stanca",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ps. 91:9-10", "Ps. 104:31-34", "Ps. 31:1-5", "Isaia 30:29-32"],
     "tags": ["Stanca", "Ocrotire", "Incredere"]
   },
   {
     "title": "Doamne Tu-n necazuri",
     "tonality": "si",
-    "verses": [],
+    "verses": ["Evrei 10:19-24", "Ps. 30:4-7"],
     "tags": ["Necaz", "Ajutor", "Credinciosie"]
   },
   {
@@ -734,19 +734,19 @@
   {
     "title": "Doamne vreau sa te slujesc",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["2 Tim. 2:1-10", "Lam. 3:26-27"],
     "tags": ["Slujire", "Devotiune", "Predare"]
   },
   {
     "title": "Doamne-n Tine ma incred",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Efes. 1:4-12", "1 Cor. 15:12-19"],
     "tags": ["Incredere", "Ocrotire", "Credinta"]
   },
   {
     "title": "Doar in Hristos",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Matei 6:19-21"],
     "tags": ["Mantuire", "Cruce", "Inviere", "Speranta"]
   },
   {
@@ -764,37 +764,37 @@
   {
     "title": "Domnu-i bun",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ps. 23:1-4"],
     "tags": ["Bunatatea Domnului", "Credinciosie", "Lauda"]
   },
   {
     "title": "Domnul in ceruri domneste",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Luca 24:1-8"],
     "tags": ["Suveranitate", "Imparat", "Lauda"]
   },
   {
     "title": "Domnul meu",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Ps. 107:8-15", "Evrei 9:16-26"],
     "tags": ["Devotiune", "Inchinare", "Incredere"]
   },
   {
     "title": "Domnul ne-a creat",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Rom. 14:7-9"],
     "tags": ["Creatie", "Tatal ceresc", "Multumire"]
   },
   {
     "title": "Domnul sta tot asteptand",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Isaia 1:16-18"],
     "tags": ["Chemare", "Rabdare", "Intoarcere"]
   },
   {
     "title": "Dragoste divina",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Rom. 5:8-11", "Evrei 10:19-23"],
     "tags": ["Dragostea Domnului", "Har", "Inchinare"]
   },
   {
@@ -812,49 +812,55 @@
   {
     "title": "Drumul slavei",
     "tonality": "do#",
-    "verses": [],
+    "verses": ["1 Petru 4:7-8", "Marcu 5:13-18"],
     "tags": ["Calea ingusta", "Sfintire", "Urmarea lui Isus"]
   },
   {
     "title": "Drumuri fara numar",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["Deut. 30:15-20"],
     "tags": ["Cautare", "Calea Domnului", "Mantuire"]
   },
   {
     "title": "Dulce e iubirea sfanta",
     "tonality": "do",
-    "verses": [],
+    "verses": ["Isaia 54:8-10", "1 Cor. 13:4-8"],
     "tags": ["Dragoste divina", "Partasie", "Bucurie"]
   },
   {
     "title": "Dumnezeu e Creatorul",
     "tonality": "fa",
-    "verses": [],
+    "verses": ["Iov 42:5-8", "Evrei 11:1-3"],
     "tags": ["Creatie", "Suveranitate", "Maretia Domnului"]
   },
   {
     "title": "Dumnezeu e dragoste",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["1 Ioan 4:9-11"],
     "tags": ["Dragostea Domnului", "Mantuire", "Har"]
   },
   {
     "title": "Dumnezeu inseamna iubire",
     "tonality": "sol",
-    "verses": [],
+    "verses": ["Rom. 5:6-8"],
     "tags": ["Dragostea Domnului", "Invatatura", "Mantuire"]
+  },
+  {
+    "title": "Dumnezeul meu nu e din lemn",
+    "tonality": "si",
+    "verses": [],
+    "tags": []
   },
   {
     "title": "Dumnezeu puternic",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["Ps. 121", "Ps. 84:5-12"],
     "tags": ["Puterea Domnului", "Suveranitate", "Incredere"]
   },
   {
     "title": "E bucurie, marea mea bucurie",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 83:1-5"],
     "tags": ["Bucurie", "Mantuire", "Lauda"]
   },
   {
@@ -866,25 +872,25 @@
   {
     "title": "E sfarsitul veacului",
     "tonality": "la",
-    "verses": [],
+    "verses": ["Luca 15:4-7"],
     "tags": []
   },
   {
     "title": "E-o minune",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Ps. 62:7", "Ps. 77:13-14", "Ps. 19:1-6"],
     "tags": ["Minune", "Har", "Mantuire"]
   },
   {
     "title": "El e fantana",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ioan 4:7-14"],
     "tags": ["Izvorul vietii", "Har", "Mantuire"]
   },
   {
     "title": "El e inaltat (slava, onoare)",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Apoc. 11:15-17", "Ps. 45:1-2"],
     "tags": ["Inaltare", "Slava", "Lauda"]
   },
   {
@@ -896,61 +902,61 @@
   {
     "title": "El ne-a iubit venind in lume",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Evrei 9:11-15", "Evrei 4:10-14"],
     "tags": ["Intrupare", "Dragostea Domnului", "Mantuire"]
   },
   {
     "title": "El pentru mine",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Isaia 50:4-7", "Isaia 53:8-11"],
     "tags": ["Jertfa", "Golgota", "Mantuire"]
   },
   {
     "title": "Eram jos in pacat",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Matei 9:9-13", "Matei 21:1-5"],
     "tags": ["Salvare", "Har", "Eliberare"]
   },
   {
     "title": "Eroii credintei",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Evrei 7:20-27"],
     "tags": ["Credinta", "Invatatura", "Calea Domnului"]
   },
   {
     "title": "Este un har",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Filip. 4:4-5", "Ps. 33:18-22"],
     "tags": ["Har", "Slujire", "Recunostinta"]
   },
   {
     "title": "Esti bucuria mea",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Colos. 2:13-15"],
     "tags": ["Bucurie", "Partasie", "Inchinare"]
   },
   {
     "title": "Esti cel mai mare",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ps. 46:1-3", "Ps. 36:5-9"],
     "tags": ["Maretia Domnului", "Lauda", "Slava"]
   },
   {
     "title": "Esti cu mine mereu",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 135:1-6", "Iov 42:30"],
     "tags": ["Prezenta Domnului", "Mangaiere", "Incredere"]
   },
   {
     "title": "Esti Dumnezeu suveran",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ioan 1:1-9", "Ioan 12:35-36"],
     "tags": ["Suveranitate", "Inchinare", "Maretia Domnului"]
   },
   {
     "title": "Esti lumina",
     "tonality": "sol",
-    "verses": [],
+    "verses": ["Matei 25:1-13", "Ps. 39:4-7"],
     "tags": ["Lumina lumii", "Calauzire", "Adevar"]
   },
   {
@@ -962,61 +968,61 @@
   {
     "title": "Esti tu gata de plecare",
     "tonality": "Si",
-    "verses": [],
+    "verses": ["Isaia 39:4-7", "Tit 2:3-7"],
     "tags": ["A doua venire", "Veghe", "Vesnicie"]
   },
   {
     "title": "Eu de tine am nevoie",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["1 Cor. 1:30-31"],
     "tags": ["Dependenta de Dumnezeu", "Rugaciune", "Nevoie"]
   },
   {
     "title": "Eu eram in lume pierdut",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Isaia 34:18-22", "Colos. 1:9-15"],
     "tags": ["Salvare", "Mantuire", "Har"]
   },
   {
     "title": "Eu ma-ncred doar in Domnul",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 33:18-21"],
     "tags": ["Incredere", "Credinta", "Ocrotire"]
   },
   {
     "title": "Eu nu sunt de pe pamant",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Filip. 3:18-20"],
     "tags": ["Pelerini", "Patria cereasca", "Cer"]
   },
   {
     "title": "Eu sunt un om",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 25:1-5"],
     "tags": ["Smerenie", "Dependenta de Dumnezeu", "Rugaciune"]
   },
   {
     "title": "Eu Te laud",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 150"],
     "tags": ["Lauda", "Inchinare", "Bucurie"]
   },
   {
     "title": "Eu v-am ales",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Deut. 32:7-12", "Matei 16:13-18"],
     "tags": ["Alegere", "Ucenicie", "Slujire"]
   },
   {
     "title": "Eu voi zbura in glorie",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["1 Tes. 4:13-5:6"],
     "tags": ["Cer", "Inviere", "Speranta"]
   },
   {
     "title": "Eu vreau sa fiu ca Tin' Isus",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["Efes. 2:1-7"],
     "tags": ["Ucenicie", "Sfintire", "Predare"]
   },
   {
@@ -1034,7 +1040,7 @@
   {
     "title": "Fa-ti timp",
     "tonality": "La",
-    "verses": [],
+    "verses": ["2 Cor. 5:20-21"],
     "tags": ["Timp", "Rugaciune", "Calea Domnului"]
   },
   {
@@ -1046,7 +1052,7 @@
   {
     "title": "Fii a mea lumina",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ioan 12:35-36", "Isaia 60:19-21"],
     "tags": ["Lumina", "Calauzire", "Rugaciune"]
   },
   {
@@ -1058,67 +1064,67 @@
   {
     "title": "Fiti voiosi, fiti voiosi totdeauna",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 105:1-4", "Ps. 71:20-24"],
     "tags": ["Bucurie", "Lauda", "Credinta"]
   },
   {
     "title": "Frati, surori de pretutindeni",
     "tonality": "La",
-    "verses": [],
+    "verses": ["1 Ioan 4:15-17"],
     "tags": ["Partasie", "Unitate", "Biserica"]
   },
   {
     "title": "Ghetimani",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Matei 26:36-42", "Luca 22:39-46"],
     "tags": ["Ghetsimani", "Rugaciune", "Ascultare"]
   },
   {
     "title": "Glorie",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Apoc. 5:12-13", "Ps. 113"],
     "tags": ["Slava", "Lauda", "Inchinare"]
   },
   {
     "title": "Hai, vino acum",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ps. 71:4-8"],
     "tags": ["Chemare", "Inchinare", "Predare"]
   },
   {
     "title": "Haideti crestini",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["Matei 25:31-34"],
     "tags": ["Unitate", "Lauda", "Biserica"]
   },
   {
     "title": "Haideti fratilor",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Apoc. 5:11-13"],
     "tags": ["Partasie", "Cantare", "Lauda"]
   },
   {
     "title": "Haideti sa cantam",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Ps. 95:1-7"],
     "tags": ["Lauda", "Bucurie", "Cantare"]
   },
   {
     "title": "Harul ce curge din Golgota",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Ioan 1:14-17", "Tit 2:6-9", "Isaia 1:18"],
     "tags": ["Golgota", "Cruce", "Jertfa"]
   },
   {
     "title": "Hristos nadejdea tuturor",
     "tonality": "si",
-    "verses": [],
+    "verses": ["Colos. 1:26-28"],
     "tags": ["Speranta", "Mantuire", "Isus Hristos"]
   },
   {
     "title": "Iata cum veni",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Isaia 60:19-20"],
     "tags": ["Craciun", "Nasterea Domnului", "Har"]
   },
   {
@@ -1130,313 +1136,313 @@
   {
     "title": "Iehova Elohim",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Jud. 13:15-18"],
     "tags": ["Numele Domnului", "Maretia Domnului", "Suveranitate"]
   },
   {
     "title": "Ierusalime cetate-mpodobita",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Apoc. 21:1-8"],
     "tags": ["Noul Ierusalim", "Cer", "Vesnicie"]
   },
   {
     "title": "In aceasta ora",
     "tonality": "do",
-    "verses": [],
+    "verses": ["1 Tes. 4:16-17"],
     "tags": ["Rugaciune", "Prezenta Domnului", "Partasie"]
   },
   {
     "title": "In casa Ta odihna este",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ps. 84:1-4", "Ioan 14:1-3"],
     "tags": ["Casa Domnului", "Odihna", "Pace"]
   },
   {
     "title": "In casa Ta, Doamne",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Luca 2:46-49"],
     "tags": ["Casa Domnului", "Inchinare", "Prezenta Domnului"]
   },
   {
     "title": "In cer exista",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Luca 8:43-48"],
     "tags": ["Cer", "Rai", "Speranta"]
   },
   {
     "title": "In El, in Domnul meu",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Rom. 8:1-2", "Efes. 1:5-11"],
     "tags": ["Incredere", "Adapost", "Lauda"]
   },
   {
     "title": "In fata Ta venim",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ioan 4:23-24"],
     "tags": ["Inchinare", "Rugaciune", "Predare"]
   },
   {
     "title": "In fata tronului de sus",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["1 Ioan 1:9-2:2"],
     "tags": ["Mijlocire", "Har", "Isus Hristos"]
   },
   {
     "title": "In Isus eu am un prieten",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ioan 15:13-16", "1 Tim. 1:15-17"],
     "tags": ["Mantuire", "Implinire", "Bucurie"]
   },
   {
     "title": "In lumina iubirii Tale",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ioan 12:35-36", "1 Ioan 1:5-7"],
     "tags": ["Dragostea Domnului", "Lumina", "Partasie"]
   },
   {
     "title": "In mana Ta",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 31:15-16"],
     "tags": ["Incredere", "Ocrotire", "Predare"]
   },
   {
     "title": "In Numele celui ce ne-a iubit",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Fapte 4:11-12"],
     "tags": ["Numele Domnului", "Biruinta", "Dragoste"]
   },
   {
     "title": "In ochii Mei",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["1 Ioan 3:1-3"],
     "tags": ["Inchinare", "Transformare", "Privirea spre Isus"]
   },
   {
     "title": "In pacat si disperare",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 40:1-3"],
     "tags": ["Mantuire", "Har", "Eliberare"]
   },
   {
     "title": "In prezenta Ta",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 84:1-4", "Ps. 73:25-28"],
     "tags": ["Prezenta Domnului", "Intimitate", "Pacea Domnului"]
   },
   {
     "title": "In revarsatul zorilor",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ioan 3:16", "Efes. 2:8-10"],
     "tags": ["Rugaciune", "Lauda", "Zi noua"]
   },
   {
     "title": "In seara aceasta",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Isaia 9:2-6"],
     "tags": ["Rugaciune", "Partasie", "Pace"]
   },
   {
     "title": "In tara eterna",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ioan 14:1-6"],
     "tags": ["Cer", "Vesnicie", "Speranta"]
   },
   {
     "title": "In umblarea mea prin lume",
     "tonality": "do#",
-    "verses": [],
+    "verses": ["2 Cor. 12:6-10"],
     "tags": ["Calauzire", "Ocrotire", "Incredere"]
   },
   {
     "title": "Inaintea Ta cu totii stam",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["Ps. 147:1-7", "Apoc. 4:8-11"],
     "tags": ["Inchinare", "Smerenie", "Unitate"]
   },
   {
     "title": "Indeajuns mi-e Doamne",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 9:1-4", "2 Cor. 12:9-10"],
     "tags": ["Har", "Multumire", "Dependenta de Dumnezeu"]
   },
   {
     "title": "Indragostiti",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 66:1-4"],
     "tags": ["Nunta", "Dragoste", "Binecuvantare"]
   },
   {
     "title": "Indreapta-mi spre Tine inima",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Ps. 139:23-24"],
     "tags": ["Rugaciune", "Curatie", "Predare"]
   },
   {
     "title": "Ingenunchiat, in fata crucii stau",
     "tonality": "la",
-    "verses": [],
+    "verses": ["Matei 27:39-44", "Isaia 7:14"],
     "tags": ["Cruce", "Golgota", "Pocainta"]
   },
   {
     "title": "Ingeri mii",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Luca 2:8-14"],
     "tags": ["Craciun", "Ingeri", "Nasterea Domnului"]
   },
   {
     "title": "Ingerii isi pleaca",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Apoc. 5:6-14", "Apoc. 7:9-12"],
     "tags": ["Inchinare", "Ingeri", "Maretia Domnului"]
   },
   {
     "title": "Inima mea tanjeste",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Efes. 2:10-12"],
     "tags": ["Prezenta Domnului", "Inchinare", "Partasie"]
   },
   {
     "title": "Inima mea vrea",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Ps. 108:1-6", "Ps. 33:1-4", "Ps. 57:7-11"],
     "tags": ["Predare", "Slujire", "Devotiune"]
   },
   {
     "title": "Inima-mi canta",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Efes. 2:10-12"],
     "tags": ["Bucurie", "Lauda", "Multumire"]
   },
   {
     "title": "Intr-un loc",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Exod 33:12-19"],
     "tags": ["Rugaciune", "Partasie", "Prezenta Domnului"]
   },
   {
     "title": "Isus e mangaierea mea",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["2 Cor. 1:3-5"],
     "tags": ["Mangaiere", "Pacea Domnului", "Speranta"]
   },
   {
     "title": "Isus e turnul",
     "tonality": "sol",
-    "verses": [],
+    "verses": ["Ps. 62:1-2"],
     "tags": ["Cetate tare", "Ocrotire", "Incredere"]
   },
   {
     "title": "Isus e viu",
     "tonality": "lab",
-    "verses": [],
+    "verses": ["Luca 24:1-8"],
     "tags": ["Inviere", "Biruinta", "Viata"]
   },
   {
     "title": "Isus esti Domnul domnilor",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Rom. 11:33-36"],
     "tags": ["Domnul domnilor", "Inchinare", "Slava"]
   },
   {
     "title": "Isus esti Prietenul meu (cant al dragostei)",
     "tonality": "Si",
-    "verses": [],
+    "verses": ["Ps. 29:1-4"],
     "tags": ["Prietenie cu Isus", "Partasie", "Dragoste"]
   },
   {
     "title": "Isus iubire din etern",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["2 Cor. 5:15-17"],
     "tags": ["Dragostea Domnului", "Cruce", "Har"]
   },
   {
     "title": "Isus la Tine eu vin",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Ioan 14:6-8", "Ps. 122"],
     "tags": ["Predare", "Chemare", "Rugaciune"]
   },
   {
     "title": "Isus m-ai cuprins",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ioan 20:24-31"],
     "tags": ["Dragostea Domnului", "Prezenta Domnului", "Siguranta"]
   },
   {
     "title": "Isus S-a nascut",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Luca 2:10-14"],
     "tags": ["Craciun", "Nasterea Domnului", "Bucurie"]
   },
   {
     "title": "Isus viata noastra",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Colos. 3:1-4"],
     "tags": ["Viata", "Pacea Domnului", "Mantuire"]
   },
   {
     "title": "Isuse fara Tine",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Ioan 15:1-5", "Matei 11:28-30"],
     "tags": ["Dependenta de Dumnezeu", "Nevoie", "Devotiune"]
   },
   {
     "title": "Isuse Lumina lumii",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Ioan 1:14-17", "Ioan 9:1-7"],
     "tags": ["Lumina lumii", "Calauzire", "Mantuire"]
   },
   {
     "title": "Iti cantam Osana",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Matei 21:1-9", "Ps. 89:5-8"],
     "tags": ["Osana", "Lauda", "Florii"]
   },
   {
     "title": "Iti dau inima mea",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ioan 3:16", "Rom. 12:1-2"],
     "tags": ["Predare", "Inchinare", "Devotiune"]
   },
   {
     "title": "Iti dau inima mea (Jivanii)",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ioan 3:16", "Rom. 12:1-2"],
     "tags": ["Predare", "Inchinare", "Devotiune"]
   },
   {
     "title": "Iti multumim",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["1 Cron. 29:10-13", "1 Tes. 5:16-18"],
     "tags": ["Multumire", "Recunostinta", "Lauda"]
   },
   {
     "title": "Iubirea sa ramana-n voi",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Isaia 53:3-6"],
     "tags": ["Dragoste", "Nunta", "Partasie"]
   },
   {
     "title": "Iubirea Ta",
     "tonality": "Fa#",
-    "verses": [],
+    "verses": ["Ps. 103:8-18", "1 Ioan 4:9-10"],
     "tags": ["Dragostea Domnului", "Har", "Inchinare"]
   },
   {
     "title": "Izvor de har insangerat",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["1 Petru 1:17-19", "Efes. 1:7-12"],
     "tags": ["Sangele lui Isus", "Golgota", "Curatie"]
   },
   {
     "title": "Jos in Via Dolorosa",
     "tonality": "do#",
-    "verses": [],
+    "verses": ["Isaia 53:1-5"],
     "tags": ["Golgota", "Cruce", "Jertfa"]
   },
   {
     "title": "Jos la picioarele-Ti",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Ps. 138:1-5", "Luca 10:38-42"],
     "tags": ["Smerenie", "Inchinare", "Predare"]
   },
   {
@@ -1448,55 +1454,55 @@
   {
     "title": "La Calvar",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Colos. 2:11-15", "Marcu 15:22-28"],
     "tags": ["Golgota", "Cruce", "Jertfa"]
   },
   {
     "title": "La Golgota (nu uita cuvintele)",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Luca 23:39-43", "Ioan 19:14-18"],
     "tags": ["Golgota", "Cruce", "Jertfa"]
   },
   {
     "title": "La Golgota Isus pe-o cruce",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Luca 23:33-34"],
     "tags": ["Golgota", "Cruce", "Jertfa"]
   },
   {
     "title": "La insangerata-Ti cruce",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["1 Tes. 5:1-6"],
     "tags": ["Cruce", "Golgota", "Iertare"]
   },
   {
     "title": "La miezul noptii",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["Ps. 110:1-3"],
     "tags": ["Veghe", "A doua venire", "Miezul noptii"]
   },
   {
     "title": "La Tine venim",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Ps. 25:1-11"],
     "tags": ["Inchinare", "Rugaciune", "Partasie"]
   },
   {
     "title": "La Tine, Doamne",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Isaia 43:1-5"],
     "tags": ["Rugaciune", "Incredere", "Inchinare"]
   },
   {
     "title": "La-nceput era Cuvantul",
     "tonality": "la",
-    "verses": [],
+    "verses": ["Ps. 86:11-13", "Ps. 96:1-4", "Ps. 119:140-144"],
     "tags": ["Cuvantul intrupat", "Creatie", "Isus Hristos"]
   },
   {
     "title": "Lasati Duhul Sfant sa lucreze",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["Ps. 90:9-12"],
     "tags": ["Duh Sfant", "Trezire", "Eliberare"]
   },
   {
@@ -1508,43 +1514,43 @@
   {
     "title": "Lumina lumii",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 132:7-9", "Ioan 8:12-16"],
     "tags": ["Lumina lumii", "Inchinare", "Golgota"]
   },
   {
     "title": "M-a aflat pe cai straine",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Tit 3:3-7", "Luca 15:1-7"],
     "tags": ["Salvare", "Har", "Pastorul cel bun"]
   },
   {
     "title": "M-aflam pe-a mea carare",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Deut. 32:7-12"],
     "tags": ["Har", "Mantuire", "Calea Domnului"]
   },
   {
     "title": "M-ai regasit",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Luca 15:1-7", "Isaia 35:8-10"],
     "tags": ["Mantuire", "Dragostea Domnului", "Har"]
   },
   {
     "title": "M-am hotarat sa-L urmez pe Isus",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Filip. 3:12-15", "Luca 9:57-10:2"],
     "tags": ["Decizie", "Urmarea lui Isus", "Ucenicie"]
   },
   {
     "title": "Ma credeam pierdut",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 107:10-16", "Ps. 116:1-7"],
     "tags": ["Mantuire", "Har", "Iertare"]
   },
   {
     "title": "Ma-ncred in El orice s-ar intampla",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Ps. 37:3-5", "Ps. 57:1-4"],
     "tags": ["Incredere", "Credinta", "Incercare"]
   },
   {
@@ -1556,79 +1562,79 @@
   {
     "title": "Mai presus de orice",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["1 Cor. 13:13-14"],
     "tags": ["Jertfa", "Cruce", "Dragostea Domnului"]
   },
   {
     "title": "Mai sus de ceru-albastru",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Isaia 57:15"],
     "tags": ["Cer", "Vesnicie", "Speranta"]
   },
   {
     "title": "Mai sus de oameni",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 95:3-6"],
     "tags": ["Incredere", "Maretia Domnului", "Suveranitate"]
   },
   {
     "title": "Mainile ridicam",
     "tonality": "la",
-    "verses": [],
+    "verses": ["Ps. 134", "1 Tim. 2:5-10"],
     "tags": ["Inchinare", "Lauda", "Binecuvantare"]
   },
   {
     "title": "Mana Ta",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 139:1-6", "Ioan 3:14-17"],
     "tags": ["Ocrotire", "Calauzire", "Incredere"]
   },
   {
     "title": "Mantuirea apartine Domnului",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Fapte 4:8-12"],
     "tags": ["Mantuire", "Slava", "Lauda"]
   },
   {
     "title": "Maret Salvator",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Țefania 3:14-17"],
     "tags": ["Isus Salvatorul", "Maretia Domnului", "Har"]
   },
   {
     "title": "Maretul har",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Tit 2:11-14", "1 Petru 1:3-5"],
     "tags": ["Har", "Mantuire", "Iertare"]
   },
   {
     "title": "Marturisim acum",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Ps. 130", "1 Împ. 8:28-30"],
     "tags": ["Marturisire de credinta", "Unitate", "Lauda"]
   },
   {
     "title": "Mergand Isus",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Luca 23:27-31"],
     "tags": ["Minuni", "Urmarea lui Isus", "Evanghelie"]
   },
   {
     "title": "Mergand prin asta lume",
     "tonality": "do#",
-    "verses": [],
+    "verses": ["Eclesiastul 8:11-13"],
     "tags": ["Pelerini", "Ocrotire", "Credinta"]
   },
   {
     "title": "Meriti toata slava",
     "tonality": "La",
-    "verses": [],
+    "verses": ["1 Cron. 29:10-13", "Apoc. 4:11"],
     "tags": ["Slava", "Inchinare", "Lauda"]
   },
   {
     "title": "Mi-am pus nadejdea-n Tine",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Ps. 62:1-2", "Ps. 118:8-9"],
     "tags": ["Speranta", "Incredere", "Credinta"]
   },
   {
@@ -1640,85 +1646,85 @@
   {
     "title": "Mielule",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Apoc. 5:7-9"],
     "tags": ["Mielul", "Inchinare", "Lauda"]
   },
   {
     "title": "Minunat, Bun, Salvator",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Apoc. 5:11-14"],
     "tags": ["Isus Salvatorul", "Bunatatea Domnului", "Lauda"]
   },
   {
     "title": "Multa vreme am stat",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Colos. 2:13-15"],
     "tags": ["Chemare", "Intoarcere", "Pocainta"]
   },
   {
     "title": "Multa vreme eu am ratacit",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Colos. 2:13-15"],
     "tags": ["Har", "Mantuire", "Intoarcere"]
   },
   {
     "title": "Munti inalti",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 95:1-6", "Rom. 1:20"],
     "tags": ["Incercare", "Credinta", "Biruinta"]
   },
   {
     "title": "N-ai fost dator",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Luca 23:33-43", "Ioan 3:14-17"],
     "tags": ["Har", "Dragostea Domnului", "Jertfa"]
   },
   {
     "title": "N-am sa uit vreodata",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["1 Petru 1:3-5", "Apoc. 21:22-27", "Evrei 11:13-16"],
     "tags": ["Recunostinta", "Har", "Marturie"]
   },
   {
     "title": "Nadajduind in Domnul",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Evrei 4:8-16"],
     "tags": ["Speranta", "Incredere", "Rabdare"]
   },
   {
     "title": "Nadejdea e una",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["Evrei 6:17-20", "Evrei 10:19-22"],
     "tags": ["Speranta", "Unitate", "Isus Hristos"]
   },
   {
     "title": "Naintea Domnului",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Ioan 3:3-6"],
     "tags": ["Inchinare", "Lauda", "Prezenta Domnului"]
   },
   {
     "title": "Nimeni afara de Tine",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ps. 142:1-5"],
     "tags": ["Devotiune", "Inchinare", "Lauda"]
   },
   {
     "title": "Nimeni nu e ca El",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 86:8-10"],
     "tags": ["Maretia Domnului", "Inchinare", "Lauda"]
   },
   {
     "title": "Nimeni nu e ca Tine",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 86:3-10"],
     "tags": ["Maretia Domnului", "Inchinare", "Lauda"]
   },
   {
     "title": "Nimeni nu e cum esti Tu",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ps. 89:5-7"],
     "tags": ["Maretia Domnului", "Inchinare", "Slava"]
   },
   {
@@ -1730,31 +1736,31 @@
   {
     "title": "Noi avem o tara",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Apoc. 21:22-27"],
     "tags": ["Patria cereasca", "Cer", "Speranta"]
   },
   {
     "title": "Noi ridicam catre cer",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Ps. 57:5-11"],
     "tags": ["Rugaciune", "Lauda", "Inchinare"]
   },
   {
     "title": "Noi suntem una-n Isus",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Efes. 2:13-18"],
     "tags": ["Unitate", "Dragoste frateasca", "Biserica"]
   },
   {
     "title": "Nu ai iertare",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Evrei 9:11-14", "Evrei 9:22"],
     "tags": ["Pocainta", "Iertare", "Har"]
   },
   {
     "title": "Nu este munte",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Filip. 4:6-7"],
     "tags": ["Credinta", "Biruinta", "Puterea Domnului"]
   },
   {
@@ -1766,31 +1772,31 @@
   {
     "title": "Nu exista frica in iubire",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["1 Ioan 4:18-19"],
     "tags": ["Dragoste", "Fara frica", "Incredere"]
   },
   {
     "title": "Nu pot sa spun",
     "tonality": "Si",
-    "verses": [],
+    "verses": ["Exod 14:13-14"],
     "tags": ["Recunostinta", "Har", "Uimire"]
   },
   {
     "title": "Nu prin numar",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Matei 6:31-34"],
     "tags": ["Duh Sfant", "Puterea Domnului", "Biruinta"]
   },
   {
     "title": "Nu te ingrijora",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Deut. 30:15"],
     "tags": ["Ingrijorare", "Pacea Domnului", "Incredere"]
   },
   {
     "title": "Nu te-ndoi",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Isaia 35:3-10"],
     "tags": ["Credinta", "Incredere", "Biruinta"]
   },
   {
@@ -1802,19 +1808,19 @@
   {
     "title": "Numai prin gratia lui Isus",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Rom. 3:21-24"],
     "tags": ["Har", "Rascumparare", "Iertare"]
   },
   {
     "title": "Numele Domnului e un turn tare",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 46:7-11"],
     "tags": ["Numele Domnului", "Cetate tare", "Ocrotire"]
   },
   {
     "title": "Numele Tau",
     "tonality": "Si",
-    "verses": [],
+    "verses": ["Exod 3:13-14", "Ps. 76:1-9", "1 Cron. 16:23-31"],
     "tags": ["Numele Domnului", "Lauda", "Slava"]
   },
   {
@@ -1826,73 +1832,73 @@
   {
     "title": "O calator, o suflet",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 107:1-9", "Evrei 4:6-11"],
     "tags": []
   },
   {
     "title": "O cantare de lauda",
     "tonality": "do",
-    "verses": [],
+    "verses": ["Ps. 33:1-4", "Ps. 150"],
     "tags": ["Lauda", "Cantare", "Bucurie"]
   },
   {
     "title": "O cantare de marire",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 84:4-7", "Ps. 84:11-12"],
     "tags": ["Lauda", "Slava", "Recunostinta"]
   },
   {
     "title": "O ce bine ma simt",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["Ps. 111:1-3"],
     "tags": ["Bucurie", "Partasie", "Pacea Domnului"]
   },
   {
     "title": "O ce har sa stii ca Domnul te iubeste",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["1 Ioan 3:1-3"],
     "tags": ["Har", "Dragostea Domnului", "Siguranta"]
   },
   {
     "title": "O ce veste imbucuratoare",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Isaia 52:7-10"],
     "tags": ["Craciun", "Nasterea Domnului", "Bucurie"]
   },
   {
     "title": "O ce veste minunata",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Isaia 52:7-10"],
     "tags": ["Craciun", "Colind", "Nasterea Domnului"]
   },
   {
     "title": "O chemare vine din intunecimi",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Matei 5:14-16", "Filip. 2:14-16"],
     "tags": ["Chemare", "Pocainta", "Mantuire"]
   },
   {
     "title": "O creste-mi iubirea",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["1 Petru 4:8-10", "1 Cor. 13:1-3"],
     "tags": ["Dragoste", "Sfintire", "Rugaciune"]
   },
   {
     "title": "O Doamne mare",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Ps. 24:1-4"],
     "tags": ["Maretia Domnului", "Creatie", "Inchinare"]
   },
   {
     "title": "O Dumnezeule din ceruri",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 95:3-6"],
     "tags": ["Rugaciune", "Tatal ceresc", "Incredere"]
   },
   {
     "title": "O inima curata, Doamne",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 51:10-12"],
     "tags": ["Curatie", "Sfintire", "Pocainta"]
   },
   {
@@ -1904,7 +1910,7 @@
   {
     "title": "O poarta e deschisa",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Evrei 10:19-22"],
     "tags": ["Usa harului", "Mantuire", "Cer"]
   },
   {
@@ -1916,13 +1922,13 @@
   {
     "title": "O vino azi Emanuel",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Luca 2:25-32", "Luca 2:34-35"],
     "tags": ["Emanuel", "Craciun", "Speranta"]
   },
   {
     "title": "Obrazul drept",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Matei 5:38-48"],
     "tags": ["Iertare", "Rabdare", "Dragoste"]
   },
   {
@@ -1934,25 +1940,25 @@
   {
     "title": "Ochii Domnului",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["1 Petru 3:10-12", "Ezec. 18:31-32"],
     "tags": ["Ocrotire", "Veghe", "Calauzire"]
   },
   {
     "title": "Ogoarele sunt gata",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ioan 4:31-36", "Matei 9:35-38"],
     "tags": ["Misiune", "Slujire", "Chemare"]
   },
   {
     "title": "Om al durerii",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["Filip. 2:5-11"],
     "tags": ["Golgota", "Cruce", "Jertfa"]
   },
   {
     "title": "Om dupa inima Ta",
     "tonality": "re",
-    "verses": [],
+    "verses": ["1 Petru 1:15-16"],
     "tags": ["Sfintire", "Slujire", "Devotiune"]
   },
   {
@@ -1964,7 +1970,7 @@
   {
     "title": "Osana",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["2 Cor. 12:9-10"],
     "tags": ["Osana", "Lauda", "Florii"]
   },
   {
@@ -1982,13 +1988,13 @@
   {
     "title": "Pe a mea cale",
     "tonality": "do",
-    "verses": [],
+    "verses": ["Luca 12:35-38"],
     "tags": ["Calauzire", "Calea Domnului", "Incredere"]
   },
   {
     "title": "Pe acest pamant",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Luca 23:26-31", "2 Cor. 5:15-21"],
     "tags": ["Pelerini", "Patria cereasca", "Cer"]
   },
   {
@@ -2000,7 +2006,7 @@
   {
     "title": "Pe crucea din dealul iubirii",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["Ps. 51:15-17"],
     "tags": ["Cruce", "Golgota", "Jertfa"]
   },
   {
@@ -2012,19 +2018,19 @@
   {
     "title": "Pe Isus daca-L crezi",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Ps. 90:9-10"],
     "tags": ["Credinta", "Mantuire", "Incredere"]
   },
   {
     "title": "Pe lume ai venit odat",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Efes. 6:10-13", "2 Tim. 2:1-4"],
     "tags": ["Intrupare", "Nasterea Domnului", "Mantuire"]
   },
   {
     "title": "Pe pamant avem o lupta",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Iosua 10:12-14"],
     "tags": ["Lupta spirituala", "Biruinta", "Veghe"]
   },
   {
@@ -2036,19 +2042,19 @@
   {
     "title": "Pe-oceanul infinit",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 18:1-6"],
     "tags": ["Ocrotire", "Calauzire", "Incredere"]
   },
   {
     "title": "Pentru cruce-Ti multumesc",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Matei 6:31-34", "Filip. 4:6-7"],
     "tags": ["Cruce", "Recunostinta", "Multumire"]
   },
   {
     "title": "Pentru noi e taina mare",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Colos. 1:13-14", "Luca 15:11-24"],
     "tags": ["Nasterea Domnului", "Har", "Craciun"]
   },
   {
@@ -2066,37 +2072,37 @@
   {
     "title": "Poarta-ti lumina",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Filip. 2:12-16", "Matei 5:14-16"],
     "tags": ["Lumina", "Marturie", "Calea Domnului"]
   },
   {
     "title": "Pocainta",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Fapte 2:36-40", "Ps. 51:7-12", "Fapte 3:19-21"],
     "tags": ["Pocainta", "Intoarcere", "Iertare"]
   },
   {
     "title": "Pot sa scriu",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 40:1-5"],
     "tags": ["Marturie", "Recunostinta", "Lauda"]
   },
   {
     "title": "Pot sa se mute muntii",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Isaia 54:7-10"],
     "tags": ["Dragostea Domnului", "Credinciosie", "Pacea Domnului"]
   },
   {
     "title": "Primeste lauda",
     "tonality": "Si",
-    "verses": [],
+    "verses": ["Ps. 47:1-2"],
     "tags": ["Lauda", "Inchinare", "Recunostinta"]
   },
   {
     "title": "Prin Isus avem victorie",
     "tonality": "si",
-    "verses": [],
+    "verses": ["Rom. 8:33-37"],
     "tags": ["Biruinta", "Isus Hristos", "Puterea Domnului"]
   },
   {
@@ -2114,43 +2120,49 @@
   {
     "title": "Privind in jur",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["Isaia 40:26"],
     "tags": ["Recunostinta", "Incredere", "Calea Domnului"]
   },
   {
     "title": "Promisiuni",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["2 Cor. 12:7-10"],
     "tags": ["Promisiuni", "Credinciosie", "Incredere"]
   },
   {
     "title": "Puterea Crucii",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ioan 19:17-24", "Matei 27:32-38"],
     "tags": ["Cruce", "Puterea Domnului", "Jertfa"]
   },
   {
     "title": "Ramai cu mine",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Iosua 1:5-9"],
     "tags": ["Prezenta Domnului", "Partasie", "Rugaciune"]
   },
   {
     "title": "Ramai linistit",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Exod 14:10-14"],
     "tags": ["Pacea Domnului", "Liniste", "Incredere"]
   },
   {
     "title": "Renuntand la gandurile mele",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Filip. 3:8-10"],
     "tags": ["Predare", "Voia Domnului", "Smerenie"]
+  },
+  {
+    "title": "Rugaciunea mi-o-nalt",
+    "tonality": "Sib",
+    "verses": [],
+    "tags": []
   },
   {
     "title": "S-a coborat in trup",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 95:6-7"],
     "tags": ["Intrupare", "Nasterea Domnului", "Smerenie"]
   },
   {
@@ -2168,19 +2180,19 @@
   {
     "title": "Sa faci Tu, Isuse",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["Isaia 45:1-7", "Ps. 138:1-3"],
     "tags": ["Predare", "Transformare", "Sfintire"]
   },
   {
     "title": "Sa fii binecuvantat",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Habacuc 3:17-19", "Ps. 145:1-10"],
     "tags": ["Binecuvantare", "Inchinare", "Credinciosie"]
   },
   {
     "title": "Sa fii rob",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Rom. 6:1-17"],
     "tags": ["Slujire", "Ascultare", "Predare"]
   },
   {
@@ -2192,103 +2204,103 @@
   {
     "title": "Sa stie tot pamantul",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Isaia 40:25-26"],
     "tags": ["Evanghelie", "Lauda", "Slava"]
   },
   {
     "title": "Sa te asculte Domnul",
     "tonality": "do",
-    "verses": [],
+    "verses": ["Rom. 8:35-37"],
     "tags": ["Binecuvantare", "Rugaciune", "Ocrotire"]
   },
   {
     "title": "Schimba-mi inima",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ezechiel 11:19-21"],
     "tags": ["Curatie", "Transformare", "Olarul"]
   },
   {
     "title": "Se cuvine sa Te laud",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["Ps. 135:1-6"],
     "tags": ["Lauda", "Recunostinta", "Inchinare"]
   },
   {
     "title": "Se-aud din departari",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Luca 21:25-28", "Apoc. 21:1-5"],
     "tags": ["Craciun", "Ingeri", "Nasterea Domnului"]
   },
   {
     "title": "Se-aude-un cantec",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["Apoc. 4:8-11"],
     "tags": ["Nasterea Domnului", "Cantare", "Craciun"]
   },
   {
     "title": "Sfant esti Doamne",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 100", "Apoc. 4:6-8"],
     "tags": ["Sfintenie", "Inchinare", "Slava"]
   },
   {
     "title": "Sfant esti, Sfant esti",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 100", "Apoc. 4:6-8"],
     "tags": ["Sfintenie", "Ingeri", "Lauda"]
   },
   {
     "title": "Sfant locas, tainic locas",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Luca 2:21-23"],
     "tags": ["Casa Domnului", "Partasie", "Biserica"]
   },
   {
     "title": "Sfarsitul veacului",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Matei 24:4-14"],
     "tags": ["Sfarsitul vremurilor", "Veghe", "A doua venire"]
   },
   {
     "title": "Si voi canta",
     "tonality": "si",
-    "verses": [],
+    "verses": ["Ioan 14:18-20"],
     "tags": ["Lauda", "Bucurie", "Cantare"]
   },
   {
     "title": "Si-am zis",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Matei 25:6-13"],
     "tags": ["Chemare", "Pocainta", "Intoarcere"]
   },
   {
     "title": "Singur eram",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 105:1-4", "Ps. 40:16-17"],
     "tags": ["Har", "Mantuire", "Prietenie cu Isus"]
   },
   {
     "title": "Singurul motiv de lauda",
     "tonality": "sol",
-    "verses": [],
+    "verses": ["Luca 2:12-14"],
     "tags": ["Lauda", "Inchinare", "Isus Hristos"]
   },
   {
     "title": "Slava, slava",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["Ps. 93", "2 Cronic 10:6-7"],
     "tags": ["Slava", "Lauda", "Inchinare"]
   },
   {
     "title": "Splendoare de-mparat",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Isaia 50:10"],
     "tags": ["Maretia Domnului", "Slava", "Creatie"]
   },
   {
     "title": "Splendori divine",
     "tonality": "re",
-    "verses": [],
+    "verses": ["Filip. 4:17"],
     "tags": ["Cer", "Slava Domnului", "Maretia Domnului"]
   },
   {
@@ -2300,67 +2312,67 @@
   {
     "title": "Stam cu toti adunati",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["1 Împ. 8:27-30"],
     "tags": ["Unitate", "Inchinare", "Partasie"]
   },
   {
     "title": "Stanca vremii",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 62:7-12"],
     "tags": ["Stanca", "Ocrotire", "Incredere"]
   },
   {
     "title": "Stanca vremii, Tu Isus",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Ps. 71:1-3"],
     "tags": ["Stanca", "Salvare", "Adapost"]
   },
   {
     "title": "Stanca-nalta",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["Matei 7:24-27"],
     "tags": ["Stanca", "Ocrotire", "Siguranta"]
   },
   {
     "title": "Stau din nou",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Apoc. 5:9-10"],
     "tags": ["Jertfa", "Cruce", "Recunostinta"]
   },
   {
     "title": "Stii tu cine este Isus",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Isaia 30:4-5"],
     "tags": ["Chemare", "Evanghelizare", "Isus Hristos"]
   },
   {
     "title": "Stropi de fericire",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 50:7-14"],
     "tags": ["Bucurie", "Fericire", "Har"]
   },
   {
     "title": "Sunt aici",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Rom. 5:8"],
     "tags": ["Predare", "Slujire", "Inchinare"]
   },
   {
     "title": "Sunt fericit, Isus e cu mine",
     "tonality": "Sol",
-    "verses": [],
+    "verses": ["Evrei 12:1-3"],
     "tags": ["Bucurie", "Prezenta Domnului", "Fericire"]
   },
   {
     "title": "Sunt iertat",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Evrei 10:10-14"],
     "tags": ["Iertare", "Har", "Mantuire"]
   },
   {
     "title": "Sunt multe monumente-n lume",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ioan 17:14-19"],
     "tags": ["Cruce", "Golgota", "Mantuire"]
   },
   {
@@ -2372,55 +2384,55 @@
   {
     "title": "Sunt un strain fara de tara",
     "tonality": "si",
-    "verses": [],
+    "verses": ["Isaia 6:1-8"],
     "tags": ["Pelerini", "Patria cereasca", "Cer"]
   },
   {
     "title": "Suntem aici",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Rom. 5:8"],
     "tags": ["Prezenta Domnului", "Inchinare", "Partasie"]
   },
   {
     "title": "Suntem straini pe-acest pamant",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Marcu 15:33-39", "1 Petru 1:17-21"],
     "tags": ["Pelerini", "Cer", "Speranta"]
   },
   {
     "title": "Suntem tracatori",
     "tonality": "sib",
-    "verses": [],
+    "verses": ["Efes. 2:19-22"],
     "tags": ["Pelerini", "Cer", "Speranta"]
   },
   {
     "title": "Sus pe cruce ai stat",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Exod 33:18-23"],
     "tags": ["Cruce", "Golgota", "Jertfa"]
   },
   {
     "title": "Tata din ceruri",
     "tonality": "La",
-    "verses": [],
+    "verses": ["2 Sam. 15:5-7", "Ioan 13:34-35"],
     "tags": ["Tatal ceresc", "Rugaciune", "Dragoste"]
   },
   {
     "title": "Tata noi vrem",
     "tonality": "Mib",
-    "verses": [],
+    "verses": ["Ps. 18:1-6", "Ps. 18:27-32"],
     "tags": ["Unitate", "Trezire", "Rugaciune"]
   },
   {
     "title": "Te iubesc",
     "tonality": "Si",
-    "verses": [],
+    "verses": ["Ioan 14:1-6"],
     "tags": ["Dragoste", "Devotiune", "Inchinare"]
   },
   {
     "title": "Te iubesc si-Ti cant",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 93:1-2"],
     "tags": ["Dragoste", "Lauda", "Cantare"]
   },
   {
@@ -2432,49 +2444,49 @@
   {
     "title": "Te slavesc Isuse",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["1 Tes. 1:9-10"],
     "tags": ["Lauda", "Slava", "Inchinare"]
   },
   {
     "title": "Te voi inalta, o, Doamne",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ioan 1:41-45"],
     "tags": ["Inaltare", "Lauda", "Recunostinta"]
   },
   {
     "title": "Te-am gasit",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Matei 24:44-51"],
     "tags": ["Mantuire", "Bucurie", "Har"]
   },
   {
     "title": "Te-am vazut pe Calvar",
     "tonality": "do",
-    "verses": [],
+    "verses": ["Matei 7:13-14"],
     "tags": ["Credinta", "Prezenta Domnului", "Marturie"]
   },
   {
     "title": "Te-astept Isuse",
     "tonality": "la",
-    "verses": [],
+    "verses": ["Ps. 75:1-3"],
     "tags": ["A doua venire", "Asteptare", "Speranta"]
   },
   {
     "title": "Ti-aduci aminte",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Gal. 2:20"],
     "tags": ["Recunostinta", "Credinciosie", "Marturie"]
   },
   {
     "title": "Ti-am gresit de atatea ori",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["Apoc. 1:4-7"],
     "tags": ["Pocainta", "Har", "Mila"]
   },
   {
     "title": "Tie lauda-Ti cantam",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["Matei 11:28-30"],
     "tags": ["Lauda", "Cantare", "Inchinare"]
   },
   {
@@ -2486,19 +2498,19 @@
   {
     "title": "Traim pentru prezenta Ta",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Fapte 17:24-28", "Evrei 11:1-3"],
     "tags": ["Prezenta Domnului", "Devotiune", "Inchinare"]
   },
   {
     "title": "Traim vremi de har",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Ps. 63:4-8"],
     "tags": ["Har", "Trezire", "Misiune"]
   },
   {
     "title": "Trista-i viata ta",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Colos. 1:13-15", "Ioan 9:4-5"],
     "tags": ["Mangaiere", "Chemare", "Speranta"]
   },
   {
@@ -2510,49 +2522,49 @@
   {
     "title": "Tu esti Creatorul",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Ps. 145:8-9"],
     "tags": ["Creatie", "Suveranitate", "Lauda"]
   },
   {
     "title": "Tu esti iubirea mea din cer",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Gal. 2:13-15"],
     "tags": ["Dragoste divina", "Inchinare", "Partasie"]
   },
   {
     "title": "Tu esti Lumina",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ioan 1:29-37", "Apoc. 7:9-12"],
     "tags": ["Lumina lumii", "Calauzire", "Adevar"]
   },
   {
     "title": "Tu esti plin de indurare",
     "tonality": "la",
-    "verses": [],
+    "verses": ["Ps. 40:1-2"],
     "tags": ["Indurare", "Bunatatea Domnului", "Iertare"]
   },
   {
     "title": "Tu esti vrednic",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Matei 28:19-20"],
     "tags": ["Vrednicie", "Lauda", "Inchinare"]
   },
   {
     "title": "Tu mi-ai pus in suflet",
     "tonality": "Lab",
-    "verses": [],
+    "verses": ["Ps. 11:4-7"],
     "tags": ["Bucurie", "Cantare", "Recunostinta"]
   },
   {
     "title": "Tu nu pleci niciodata",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ps. 145:1-4"],
     "tags": ["Credinciosie", "Prezenta Domnului", "Siguranta"]
   },
   {
     "title": "Tu stai mai sus de ceruri",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 40:1-4", "Ps. 107:8-16"],
     "tags": ["Inaltare", "Slava", "Maretia Domnului"]
   },
   {
@@ -2564,13 +2576,13 @@
   {
     "title": "Tu-mi esti refugiu",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 19:1-6"],
     "tags": ["Cetate tare", "Adapost", "Ocrotire"]
   },
   {
     "title": "Un cantec de lauda",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Luca 2:9-11"],
     "tags": ["Lauda", "Bucurie", "Cantare"]
   },
   {
@@ -2582,31 +2594,31 @@
   {
     "title": "Un cor îngeresc",
     "tonality": "mi",
-    "verses": [],
+    "verses": ["Isaia 9:6"],
     "tags": []
   },
   {
     "title": "Un inger din cer",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 138:1-5", "Ps. 47:6-9"],
     "tags": ["Ingeri", "Craciun", "Nasterea Domnului"]
   },
   {
     "title": "Un pribeag am fost candva",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 30", "Exod 19:25-20:7"],
     "tags": ["Pelerini", "Mantuire", "Har"]
   },
   {
     "title": "Un simplu cantec eu Iti cant",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Efes. 4:4-6"],
     "tags": ["Inchinare", "Lauda", "Devotiune"]
   },
   {
     "title": "Un singur Dumnezeu",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ioan 10:7-9"],
     "tags": ["Trinitate", "Maretia Domnului", "Lauda"]
   },
   {
@@ -2618,19 +2630,19 @@
   {
     "title": "Usa harului",
     "tonality": "Sib",
-    "verses": [],
+    "verses": ["Ioan 10:7-9"],
     "tags": ["Usa harului", "Mantuire", "Chemare"]
   },
   {
     "title": "Va veni Domnul",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Luca 12:35-40"],
     "tags": ["A doua venire", "Veghe", "Speranta"]
   },
   {
     "title": "Va veni o zi in care",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["1 Cor. 15:51-57"],
     "tags": ["Cer", "A doua venire", "Speranta"]
   },
   {
@@ -2642,7 +2654,7 @@
   {
     "title": "Venim la poala crucii Tale",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Ps. 95:1-7", "Romani 5:1-6"],
     "tags": ["Cruce", "Golgota", "Smerenie"]
   },
   {
@@ -2654,13 +2666,13 @@
   {
     "title": "Veniti sa ne-nchinam",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 29:1-2"],
     "tags": ["Inchinare", "Chemare", "Lauda"]
   },
   {
     "title": "Veste-am adus",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Luca 2:10-11"],
     "tags": ["Craciun", "Nasterea Domnului", "Bucurie"]
   },
   {
@@ -2672,13 +2684,13 @@
   {
     "title": "Vestiti azi pretutindeni",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Luca 2:11-14"],
     "tags": ["Misiune", "Craciun", "Evanghelie"]
   },
   {
     "title": "Vezi iubirea Lui",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Romani 8:37-39", "Romani 5:8-11"],
     "tags": ["Dragostea Domnului", "Cruce", "Jertfa"]
   },
   {
@@ -2690,79 +2702,79 @@
   {
     "title": "Viata far de Tine",
     "tonality": "Si",
-    "verses": [],
+    "verses": ["2 Corint. 5:15-18"],
     "tags": ["Dependenta de Dumnezeu", "Nevoie", "Devotiune"]
   },
   {
     "title": "Viata mea era doar un cosmar",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["1 Ioan 5:10-13"],
     "tags": ["Marturie", "Eliberare", "Transformare"]
   },
   {
     "title": "Voi canta cu bucurie",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Ps. 118:24-29"],
     "tags": ["Bucurie", "Cantare", "Lauda"]
   },
   {
     "title": "Voi canta Domnului meu",
     "tonality": "Do#",
-    "verses": [],
+    "verses": ["Ps. 40:1-5", "Ps. 9:1-4"],
     "tags": ["Lauda", "Devotiune", "Cantare"]
   },
   {
     "title": "Voi inalta numele Tau",
     "tonality": "Fa",
-    "verses": [],
+    "verses": ["Ps. 105:1-4", "Ps. 113"],
     "tags": ["Inaltare", "Lauda", "Slava"]
   },
   {
     "title": "Voi slavi pe Mielul gloriei",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Apoc. 22:4-5"],
     "tags": ["Lauda", "Slava", "Inchinare"]
   },
   {
     "title": "Voia ta",
     "tonality": "do",
-    "verses": [],
+    "verses": ["Rom. 12:1-2", "Ps. 143:10"],
     "tags": ["Voia Domnului", "Ascultare", "Predare"]
   },
   {
     "title": "Vreau langa Dumnezeu",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Ps. 68:5-8"],
     "tags": ["Apropiere", "Intimitate", "Rugaciune"]
   },
   {
     "title": "Vreau sa fiu ca Tine",
     "tonality": "Mi",
-    "verses": [],
+    "verses": ["Efes. 3:14-19"],
     "tags": ["Sfintire", "Predare", "Ucenicie"]
   },
   {
     "title": "Vrednic e Mielul Sfant",
     "tonality": "Do",
-    "verses": [],
+    "verses": ["Apoc. 5:6-12", "Apoc. 19:11-13"],
     "tags": ["Vrednicie", "Mielul", "Inchinare"]
   },
   {
     "title": "Vrednic esti de cinste",
     "tonality": "La",
-    "verses": [],
+    "verses": ["Ps. 149:1-5", "Ps. 92:1-4"],
     "tags": ["Vrednicie", "Lauda", "Inchinare"]
   },
   {
     "title": "Vrem sa te vedem",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Romani 5:1-6"],
     "tags": ["Inaltare", "Trezire", "Biruinta"]
   },
   {
     "title": "Zideste in mine",
     "tonality": "Re",
-    "verses": [],
+    "verses": ["Fapte 15:7-12", "Ezec. 36:25-28"],
     "tags": ["Curatie", "Duh statornic", "Sfintire"]
   }
 ]
