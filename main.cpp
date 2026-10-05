@@ -38,8 +38,8 @@ vector<song> load_database(const string &filepath) {
 }
 
 // generate a sermon by selecting a random subset of songs from the pool
-string generate_sermon(vector<song> &songsPool, const int count,
-                       const string sermonName, mt19937 &rng) {
+string generate_sermon(vector<song> &songsPool, const int &count,
+                       const string &sermonName, mt19937 &rng) {
 
   // umap for keeping track of the gamma counts
   const int max_tonality_count = 5;
@@ -99,6 +99,8 @@ int main() {
       generate_sermon(pool, morning_songs_count, "Morning Sermon", rng);
   string afternoon_sermon =
       generate_sermon(pool, afternoon_songs_count, "Afternoon Sermon", rng);
+
+  cout << morning_sermon << '\n' << afternoon_sermon;
 
   return 0;
 }
