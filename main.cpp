@@ -22,6 +22,11 @@ struct song {
 
 // load the song database from JSON
 vector<song> load_database(const string &filepath) {
+  if (!ifstream(filepath)) {
+    cerr << "Error: File not found: " << filepath << '\n';
+    return {};
+  }
+
   ifstream file(filepath);
   json data = json::parse(file);
   vector<song> database;
@@ -101,6 +106,5 @@ int main() {
       generate_sermon(pool, afternoon_songs_count, "Afternoon Sermon", rng);
 
   cout << morning_sermon << '\n' << afternoon_sermon;
-
   return 0;
 }
